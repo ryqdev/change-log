@@ -1,6 +1,7 @@
 # change-log
 
 ## 0.0.2
+After exploring plenty of developing tools, I decide to use the following tool combination:
 - Developing: Codespace
 - WebPage Deploying: Vercel
 - Server Deploying: Fly.io
